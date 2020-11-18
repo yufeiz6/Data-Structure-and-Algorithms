@@ -1,0 +1,14 @@
+---
+:id: 41201826
+:submitters:
+- :name: Yufei Zhang
+  :email: yufeiz6@uw.edu
+- :name: Ethan Liu
+  :email: yiqunl2@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-08-18 23:04:46.825952000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-08-18 16:04:46.825952000 Z
+:status: processed
+:score: 30.0
